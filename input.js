@@ -1,7 +1,7 @@
 /**
  * OPPO商城 APP
  *
- * 打开抓包、进入我的 - 签到任务
+ * 打开抓包、进入我的 - 签到任务 
  * 抓包 URL：https://hd.opposhop.cn/api/cn/oapi/users/web/member/check?unpaid=0 获取 Cookie 和 User-Agent
  * export OPPOSHOP_COOKIE = 'xxxxxxxxx'
  * export OPPO_USER_AGENT = 'Mozilla/5.0 (Linux; Android 10; xxxxxxxxx'
